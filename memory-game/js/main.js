@@ -1,2 +1,6 @@
-console.log("Up and Running!");
-console.log("Ready to Run");
+let cardOne = "king"
+let cardTwo = "king"
+let cardThree = "queen"
+let cardFour = "queen"
+
+console.log("User flipped " + cardOne);
