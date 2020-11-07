@@ -1,1 +1,1 @@
-# basi - Vanila Javascipt + some HTML/CSS - card -memorygame
+# basic - Vanila Javascipt + some HTML/CSS - card -memorygame
